@@ -12,14 +12,14 @@
             "{emoji:time} {hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{th=year:2}"
         ],
         "text-2": [
-            "| ♡ - Playing..🤍",
-            "| ♡ - Listening..💐",    
-            "| ♡ - Streamimg..💻",        
-            "| ♡ - Sleeping..💤", 
-            "| ♡ - Reading..📖"
+            "| 🤍 - Playing..🤍",
+            "| 💛 - Listening..💐",    
+            "| 🩵 - Streamimg..💻",        
+            "| 💚 - Sleeping..💤", 
+            "| 🖤 - Reading..📖"
           ],
         "text-3": [
-            "Discord Status : XEN"
+            "Status : Date/Time"
         ],
         "bigimg": [
             "https://i.postimg.cc/h4mHDSZP/excited-i-m-so-excited.gif"
