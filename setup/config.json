@@ -12,7 +12,6 @@
             "{emoji:time} {hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{th=year:2}"
         ],
         "text-2": [
-            "Status Loading..",
             "| ♡ - Playing.. ྀི𓈒",
             "| ♡ - Listening.. ྀི𓈒",    
             "| ♡ - Streamimg.. ྀི𓈒",        
